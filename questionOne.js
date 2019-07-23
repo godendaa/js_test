@@ -148,7 +148,7 @@ console.log(chain.sortOrder().addElem(newObj2).elements);
 /*
 [ { name: 'John', count: 5, order: 1 },
   { name: 'Shaun', count: 5, order: 2 },
-  { name: 'Bob', count: 7, order: 3 },
+  { name: 'Steve', count: 12, order: 3 },
   { name: 'Sarra', count: 13, order: 4 },
   { name: 'Amos', count: 27, order: 5 },
   { name: 'Gerald', count: 31, order: 6 },
